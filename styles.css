@@ -55,7 +55,7 @@ section::after{
     border: 1 px solid rgba(255, 255, 255, 0.1);
     padding: 25px;
 }
-
+/* FRONT SIDE START */
 .front-side .logo img{
     width: 48px;
     margin-right: 10px;
@@ -99,3 +99,5 @@ h5.number{
 h5.name{
     margin-top: 20px;
 }
+
+/*FRONT SIDE END */
