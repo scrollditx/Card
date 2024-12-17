@@ -104,10 +104,6 @@ h5.name {
   padding: 15px 25px 25px 25px;
   transform: rotateY(180deg);
   backface-visibility: hidden;
-  -webkit-transform: rotateY(180deg);
-  -moz-transform: rotateY(180deg);
-  -ms-transform: rotateY(180deg);
-  -o-transform: rotateY(180deg);
 }
 .card.back-face h6 {
   font-size: 8px;
